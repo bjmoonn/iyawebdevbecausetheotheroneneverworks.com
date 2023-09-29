@@ -36,7 +36,7 @@ export default function Home() {
           &quot;Assignment page scraper coming soon&quot;
         </div>
       <div className={styles.hr}></div>
-      <div>
+      <div className={styles.paragraph}>
         For reasons on why the website is down again, contact
         <HoverCard>
           <HoverCardTrigger asChild>

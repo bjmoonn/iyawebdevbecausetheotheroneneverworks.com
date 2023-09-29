@@ -34,6 +34,10 @@
     .emailLink {
       font-size: 12px;
     }
+
+    .paragraph {
+        line-height: 110%;
+    }
   }
   
   .intro {
