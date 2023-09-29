@@ -65,6 +65,7 @@ export default function Home() {
       </HoverCard>
       .
         </div>
+        <div>To contribute, check out the repo on <a className="text-primary underline underline-offset-4" href="https://github.com/bjmoonn/iyawebdevbecausetheotheroneneverworks">GitHub</a>.</div>
       </div>
     )
 }
