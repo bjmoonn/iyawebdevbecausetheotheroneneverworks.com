@@ -14,6 +14,8 @@
   
     .introTitle {
       font-size: 2rem;
+      line-height: 100%;
+      padding-bottom: 0.5rem;
     }
   
     .introSubtext {
