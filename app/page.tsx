@@ -20,7 +20,7 @@ export default function Home() {
     <div className={styles.main}>
       <div className={styles.intro}>
         <div className={styles.introTitle}>ACAD 276: Dev II</div>
-        <div className={styles.introSubtext}>dev ii website because i'm annoyed by how shitty the server is so that it goes down every two classes</div>
+        <div className={styles.introSubtext}>dev ii website because i&apos;m annoyed by how shitty the server is so that it goes down every two classes</div>
       </div>
       <div className={styles.hr}></div>
       <div className={styles.links}>
@@ -33,7 +33,7 @@ export default function Home() {
       </div>
       <div className={styles.hr}></div>
         <div className={styles.content}>
-          "Assignment page scraper coming soon"
+          &quot;Assignment page scraper coming soon&quot;
         </div>
       <div className={styles.hr}></div>
       <div>
@@ -51,7 +51,7 @@ export default function Home() {
               <div className="space-y-1">
                 <h4 className="text-sm font-semibold">@dent</h4>
                 <p className="text-sm">
-                  "the guy"
+                  &quot;the guy&quot;
                 </p>
                 <div className="flex items-center pt-2">
                   <Mail className="mr-2 h-4 w-4 opacity-70" />{" "}
